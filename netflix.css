@@ -1,0 +1,130 @@
+.netflix {
+    color: red;
+    font-family: fantasy;
+    font-size: 50px;
+    padding-left: 50px;
+
+}
+.netflixbg {
+    background-image: url("https://files.cults3d.com/uploaders/21375497/illustration-file/ad92d758-ee12-446c-af6e-23f377922a10/Demon-Slayer-logo2.png");
+    content: justify;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150vh;
+}
+
+.btn {
+    margin: 10px;
+}
+
+.netimage {
+    width: 160px;
+    height: 120px;
+    padding-left: 50px;
+}
+
+.pic1 {
+    height: 100px;
+    width: 100px;
+}
+
+#go {
+    color: white;
+    border-color: white;
+}
+
+.nimage {
+    padding-top: 50px;
+}
+
+.nheading {
+    color: red;
+    font-family: fantasy;
+    font-size: 5ch;
+    font-weight: bold;
+    padding-left: 70px;
+    padding-bottom: 0px;
+}
+
+.npara {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    padding-left: 0px;
+    padding-top: 0%;
+    margin: 0%;
+
+}
+
+.netpara {
+    color: white;
+    font-family: fantasy;
+    font-size: 10ch;
+    font-weight: 100;
+    padding-left: 70px;
+    padding-top: 0px;
+    margin-bottom: 50px;
+}
+
+.nheading1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5ch;
+    font-weight: 100;
+    padding-left: 80px;
+    padding-bottom: 30px ;
+}
+
+.netpara1 {
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: 100;
+    padding-left: 80px;
+    margin-bottom: 5px;
+    padding-bottom: 30px;
+}
+
+.netpara2 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: 100;
+    padding-left: 80px;
+    margin-bottom: 5px;
+}
+
+.netpara3 {
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: 100;
+    padding-left: 80px;
+    margin-bottom: 5px;
+}
+
+.npara1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: 100;
+    text-align: center;
+    padding-bottom: 1px;
+
+}
+
+.nheading2 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5ch;
+    font-weight: 100;
+    padding-left: 80px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.netbutton {
+    padding-left: 70px;
+}
